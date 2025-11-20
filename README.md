@@ -1,5 +1,5 @@
 # Consistent_3D_Scene_Editing_via_Semantic-Geometric_Feature_Fields_in_Gaussian_Splatting
-> 2025 HYU Advanced Computer Vision Term Project
+> 2025 HYU Advanced Computer Vision Term Project (AUE8090)
 
 ### Professor
 - Soon-Min Hwang (Hanyang University. dept of Automotive Research, [Lab Homepage](https://ircv.hanyang.ac.kr/))
