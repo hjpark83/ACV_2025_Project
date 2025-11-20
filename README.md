@@ -1,0 +1,2 @@
+# Consistent_3D_Scene_Editing_via_Semantic-Geometric_Feature_Fields_in_Gaussian_Splatting
+2025 HYU Advanced Computer Vision Term Project
