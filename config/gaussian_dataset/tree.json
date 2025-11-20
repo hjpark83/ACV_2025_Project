@@ -1,0 +1,40 @@
+{
+    "_comment": "Config for tree dataset",
+    "_characteristics": {
+        "scene_type": "outdoor_tree",
+        "complexity": "medium",
+        "num_images": 187
+    },
+
+    "densify_until_iter": 15000,
+    "_densify_comment": "Standard densification period",
+
+    "densify_grad_threshold": 0.0002,
+    "_densify_grad_comment": "Default threshold",
+
+    "num_classes": 256,
+
+    "reg3d_interval": 5,
+    "_reg3d_interval_comment": "Regularization interval",
+
+    "reg3d_k": 5,
+    "_reg3d_k_comment": "5 neighbors for regularization",
+
+    "reg3d_lambda_val": 2.0,
+    "_reg3d_lambda_comment": "Regularization strength",
+
+    "reg3d_max_points": 100000,
+    "_reg3d_max_comment": "Max points for regularization",
+
+    "reg3d_sample_size": 1000,
+    "_reg3d_sample_comment": "Batch size for regularization",
+
+    "opacity_reset_interval": 3000,
+    "_opacity_reset_comment": "Opacity reset interval",
+
+    "percent_dense": 0.01,
+    "_percent_dense_comment": "Density target",
+
+    "densification_interval": 100,
+    "_densification_comment": "Densification frequency"
+}
